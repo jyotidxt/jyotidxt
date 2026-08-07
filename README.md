@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.png" width="100%" alt="Jyoti Dixit - Full Stack Developer & AI Builder"/>
+<img src="assets\hero.svg" width="100%" alt="Jyoti Dixit - Full Stack Developer & AI Builder"/>
 
 <br/>
 
